@@ -1,5 +1,5 @@
 {
-    "name": "scorpse/supervisor-configuration",
+    "name": "scorpse/configuration",
     "description": "Manage Supervisor configuration in PHP",
     "license": "MIT",
     "keywords": ["supervisor", "configuration"],
